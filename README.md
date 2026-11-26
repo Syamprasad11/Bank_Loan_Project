@@ -73,13 +73,6 @@ Key attributes include:
 - Evaluated loan repayment patterns across different credit grades.
 - Identified borrower and loan characteristics associated with credit risk.
 
-## Dashboard Preview
-
-
-### Dashboard Overview
-![Dashboard Overview](Dashboards/Screenshot 2026-11-25 193038.png))
-
-
 ## Key Skills Demonstrated
 Data Cleaning | Exploratory Data Analysis | Python Programming | SQL Querying | MySQL Database | Data Visualization | Feature Engineering | Power BI | Business Intelligence | Credit Risk Analysis
 
