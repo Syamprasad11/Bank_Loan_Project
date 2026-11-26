@@ -79,8 +79,6 @@ Key attributes include:
 ### Dashboard Overview
 ![Dashboard Overview](Dashboards/Screenshot 2026-11-25 193038.png))
 
-### Dashboard Details
-![Dashboard Details](Images/Dashboard_Details.png)
 
 ## Key Skills Demonstrated
 Data Cleaning | Exploratory Data Analysis | Python Programming | SQL Querying | MySQL Database | Data Visualization | Feature Engineering | Power BI | Business Intelligence | Credit Risk Analysis
