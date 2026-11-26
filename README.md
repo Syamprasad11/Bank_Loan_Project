@@ -75,10 +75,9 @@ Key attributes include:
 
 ## Dashboard Preview
 
-<!-- Add your dashboard screenshots here after uploading them to the Images folder -->
 
 ### Dashboard Overview
-![Dashboard Overview](Images/Dashboard_Overview.png)
+![Dashboard Overview](Dashboards/Screenshot 2026-11-25 193038.png))
 
 ### Dashboard Details
 ![Dashboard Details](Images/Dashboard_Details.png)
